@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Desync\source\repos\JumpyWindow\Source.cpp(22,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Desync\source\repos\JumpyWindow\Source.cpp(23,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Desync\source\repos\JumpyWindow\Source.cpp(59,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Desync\source\repos\JumpyWindow\Source.cpp(69,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Desync\source\repos\JumpyWindow\Source.cpp(100,21): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+C:\Users\Desync\source\repos\JumpyWindow\Source.cpp(101,21): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+  JumpyWindow.vcxproj -> C:\Users\Desync\source\repos\JumpyWindow\Debug\JumpyWindow.exe
